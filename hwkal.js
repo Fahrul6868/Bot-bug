@@ -15,20 +15,20 @@ const twitter = require("./baseikal/download/twitter")
 global.baileys = require('@whiskeysockets/baileys') 
 global.adiwajshing = require('@adiwajshing/baileys') 
 
-global.gr = 'https://chat.whatsapp.com/Kjm8rnDFcpb04gQNSTbW2d'
-global.ig = 'unicorn_xeon13' // ubah aja
-global.email = 'josephxeon13@gmail.com' //serah
+global.gr = 'https://chat.whatsapp.com/HZ0XzL2hYl5EtKgz15Qdfv'
+global.ig = 'fahrul_mt' // ubah aja
+global.email = 'rakrohaku@gmail.com' //serah
 global.region = 'indonesia' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DGXeon' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'FAHRUL' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['916909137213'] // ubah aja pake nomor lu
+global.owner = ['6285786539008'] // ubah aja pake nomor lu
 //==========================BY Hw Mods=======================//
 global.keyopenai = `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`
 //====================BY Hw Mods=============================//
-global.botname = 'hw-v19' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'FAHRUL-MT' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = 'sticker by' // ubah aja ini nama sticker
-global.author = 'dgxeon' // ubah aja ini nama sticker
+global.author = '@fahrul😈' // ubah aja ini nama sticker
 global.prefa = ['','!','.',',','🐤','🗿']
 global.sessionName = 'session' //Gausah Juga
 global.sp = '⭔' // Gausah Juga
