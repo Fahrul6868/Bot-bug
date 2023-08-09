@@ -1869,15 +1869,6 @@ reply("Maaf, sepertinya ada yang error :"+ error.message);
 }
 }
 break
-//=================================================
-case 'bug': case 'apa': case 'kenapa': case 'oke': case 'bug': case 'apa':{
-  haikal.sendMessage(from, {
-    'text': 'Iya'
-  }, {
-    'quoted': kalgans
-  })
-  }
-  break
   //=================================================
 case 'docugc': {
 if (!isCreator) return m.reply(`*khusus Premium*`)
